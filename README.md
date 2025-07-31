@@ -19,10 +19,6 @@ I'm a dedicated Computer Science student with a keen interest in software develo
 - Contributing to open-source projects 🌱
 - Continuous learning and professional growth 📚
 
-### GitHub Stats 📊
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernand0-jf&layout=compact)
-
 ### Get in Touch 📨
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-fernando-bispo-dos-santos-b09a63266/)!
